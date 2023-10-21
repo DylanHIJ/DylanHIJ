@@ -1,4 +1,4 @@
-### Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/dylanhij?theme=dark&font=Roboto&ext=contest)
 
 <!--
 **DylanHIJ/DylanHIJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
